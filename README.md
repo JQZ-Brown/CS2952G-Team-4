@@ -8,12 +8,14 @@ In recent years, Hi-C experiments are widely used to analyze chromatin interacti
 
 ## Paper List
 
+I think the literatur ecan be divided into three parts: What about each of us work on one part
+
 ### GAN and its variations
 [1] Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.
 
 [2] Wang, Xintao, et al. "Esrgan: Enhanced super-resolution generative adversarial networks." Proceedings of the European Conference on Computer Vision (ECCV). 2018.
 
-**Paper [2] has a detailed literature review in the "Related Work" section. I recommend you refer to it for more knowledge about super resolution GAN.**
+**Paper [2] has a detailed literature review in the "Related Work" section. I recommend you refer to it for more knowledge about super-resolution GAN.**
 
 ### Deep learning models used for enhancing the Hi-C resolution
 [3] Li, Zhilan, and Zhiming Dai. "SRHiC: A Deep Learning Model to Enhance the Resolution of Hi-C Data." Frontiers in Genetics 11 (2020): 353.
@@ -22,12 +24,14 @@ In recent years, Hi-C experiments are widely used to analyze chromatin interacti
 
 [5] Hong, Hao, et al. "DeepHiC: A generative adversarial network for enhancing Hi-C data resolution." PLoS computational biology 16.2 (2020): e1007287.
 
-**There is not too many deep learning models for enhancing Hi-C resolution.**
+**There are not too many deep learning models for enhancing Hi-C resolution.**
  
 ### Non deep learning models
 [6] Zhang, Shilu, et al. "In silico prediction of high-resolution Hi-C interaction matrices." Nature communications 10.1 (2019): 1-18.
 
-**This method solve the probelm in anoher perspective with traditional machine learning models such as random forest.**
+**This method solves the problem from another perspective using traditional machine learning models such as a random forest. There may be other non deep learning models. You could search for it. I think matrix completion (imputation) can be a good start.**
+
+***
 
 ### Downstream analysis tasks over Hi-C data
 [7] Zhang, Yan. "Investigate Genomic 3D Structure Using Deep Neural Network." (2017).
