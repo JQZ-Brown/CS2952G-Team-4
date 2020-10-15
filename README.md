@@ -34,6 +34,7 @@ I think the literatur ecan be divided into three parts: What about each of us wo
  
 ### Non-deep-learning models
 [6] Zhang, Shilu, et al. "In silico prediction of high-resolution Hi-C interaction matrices." Nature communications 10.1 (2019): 1-18.
+Carron et al. "Boost-HiC: Computational enhancement of long-range contacts in chromosomal contact maps"
 
 **This method solves the problem from another perspective using traditional machine learning models such as a random forest. There may be other non-deep-learning models. You could search for it. I think matrix completion (imputation) can be a good start.**
 
