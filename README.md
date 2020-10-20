@@ -2,6 +2,9 @@
 The final project repository for team 4 (Blue Genes) of CS2952G .
 
 
+***
+
+
 ## Abstract
 In recent years, Hi-C experiments are widely used to analyze chromatin interactions. But many applications regarding using Hi-C data are facing the problem that available Hi-C data have low resolution, which will hurt the related analysis. To address this problem, deep learning models such as a convolutional neural network (CNN) and a generative adversarial network (GAN) are used to enhance data resolution due to their effectiveness in various image processing tasks. The estimations of these models indeed increase the data resolution, however, the training cost is a significant increase as well. Previous papers pay little attention to compare the computational resources used in a different model. Moreover, these models consider the Hi-C data as images and apply correlation and image-based metrics to evaluate similarities between their estimations and high-resolution counterparts.  Therefore, the feasibility of these models in real applications is doubtful. In this paper, we implement comprehensive experiments to compare most of the ad hoc models on enhancing Hi-C resolution and utilize four biologically plausible similarity scores to measure the estimation. Based on the experimental results, we give a guidance on how to choose from various methods to best fit the application requirement and available computational resources. (If possible, maybe we can build up a new model.)   
 
@@ -11,6 +14,10 @@ In recent years, Hi-C experiments are widely used to analyze chromatin interacti
 [b] Compare various deep learning models. Use the above-mentioned metrics. Compare their performances on various downstream analyses. Compares their required computational resources.
 
 [c] Give guidance about how to choose a model for a Hi-C analysis application.
+
+
+***
+
 
 ## Paper List
 
@@ -39,7 +46,6 @@ Carron et al. "Boost-HiC: Computational enhancement of long-range contacts in ch
 
 **This method solves the problem from another perspective using traditional machine learning models such as a random forest. There may be other non-deep-learning models. You could search for it. I think matrix completion (imputation) can be a good start.**
 
-***
 
 ### Downstream analysis tasks over Hi-C data
 [7] Zhang, Yan. "Investigate Genomic 3D Structure Using Deep Neural Network." (2017).
@@ -53,6 +59,17 @@ Carron et al. "Boost-HiC: Computational enhancement of long-range contacts in ch
 
 [10] Djekidel, Mohamed Nadhir, Yang Chen, and Michael Q. Zhang. "FIND: difFerential chromatin INteractions Detection using a spatial Poisson process." Genome research 28.3 (2018): 412-422.
 
+
+
+***
+
+
+## Paper Draft:
+
+A latex project is already created in the Overleaf. You can edit it through this link: (https://www.overleaf.com/5522244455tjwbxqgsqcsh). This project emplys the Bioinformatics Journal format (https://academic.oup.com/bioinformatics/pages/submission_online). **If you've never used latex before, just let me know. We can fnd a way to work together with doc files.**
+
+
+***
 
 
 ## TODO:
