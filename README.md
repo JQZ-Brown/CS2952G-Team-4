@@ -14,7 +14,7 @@ In recent years, Hi-C experiments are widely used to analyze chromatin interacti
 
 ## Paper List
 
-I think the literatur ecan be divided into three parts: What about each of us work on one part.
+Literature review: (https://github.com/JQZ-Brown/CS2952G-Team-4/blob/master/Literature%20Review.pdf) 
 
 ### GAN and its variations
 [1] Goodfellow, Ian, et al. "Generative adversarial nets." Advances in neural information processing systems. 2014.
@@ -56,5 +56,9 @@ Carron et al. "Boost-HiC: Computational enhancement of long-range contacts in ch
 
 
 ## TODO:
-[1] Literatue Review (due at 11.59 pm Friday)
+[1] First Draft (due at Oct. 30)
+
+[2] Review (due at Nov. 2)
+
+[3] Idea presentation (due at Nov. 5)
 
