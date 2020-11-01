@@ -1,5 +1,8 @@
 # CS2952G-Team-4 (Blue Genes)
-The final project repository for team 4 (Blue Genes) of CS2952G .
+
+**The Hi-C Super-resolution problem: a survey and analysis of deep learning methods for enhancing experimental Hi-C data**
+
+Jiaqi Zhang, Tyler Defroscia and Michael Nisenzon
 
 
 ***
