@@ -1,0 +1,18 @@
+## SLURM PROLOG ###############################################################
+##    Job ID : 15673929
+##  Job Name : HICPLUS
+##  Nodelist : gpu1204
+##      CPUs : 1
+##  Mem/Node : 24576 MB
+## Directory : /gpfs/data/sramacha/tdefrosc/coco_herbarium/CS2952G-Team-4
+##   Started : Thu Nov 19 13:03:40 EST 2020
+###############################################################################
+0:00:00.000006
+HiC version:  8
+dividing, filtering and downsampling files...
+(93056, 1, 40, 40)
+here
+(5912, 5912)
+()
+(93056, 1, 40, 40)
+start training...
