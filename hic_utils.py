@@ -50,7 +50,7 @@ def train_divide(HiCmatrix):
     index = np.array(index)
     return result, index
 
-# Downsampling technique taken from HiCPlus
+# Downsampling technique taken from hicplus
 # Downsamples to a lower res by randomly dropping our reads with probability rate
 def genDownsample(original_sample, rate):
     result = np.zeros(original_sample.shape).astype(float)
